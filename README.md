@@ -86,7 +86,7 @@ CONNECTED TO: <a href="https://github.com"><code style="color: #7B96B8; backgrou
 &nbsp;
 
 <details>
-<summary><font color="#FF6961"><b>[ ▶ ] CLICK HERE TO VIEW ALL FANDOMS</b></font></summary>
+<summary><font color="#FF6961"><b> CLICK HERE TO VIEW ALL FANDOMS</b></font></summary>
 <br>
 
 *   **Main Operations:** Beastars, My Hero Academia, Jujutsu Kaisen, Eddsworld, Hazbin Hotel, Helluva Boss, Sally Face, Naruto, Wakfu / Dofus, FNAF, Steven Universe, Boyfriend to Death / The Price of Flesh / YKMET: Strade, Jurassic World / Jurassic Park, Cookie Run Kingdom, Brawl Stars, BATIM, Mr. Hopp's Playhouse, Creatures of Sonaria, Dandy's World.
