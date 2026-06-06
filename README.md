@@ -57,12 +57,12 @@ If you try to push my boundaries, force your rules, or act persistently annoying
 <table>
 <tr>
 <td bgcolor="#1f232a" style="border-left: 4px solid #FF6961; padding: 15px; width: 100%;">
-CONNECTED TO: <a href="https://github.com"><code style="color: #7B96B8; background-color: #1b2026; border: 1px solid #7B96B8; padding: 2px 6px;">BeObnoxious</code></a>
+CONNECTED TO: <a href="https://github.com/BeObnoxious"><code style="color: #7B96B8; background-color: #1b2026; border: 1px solid #7B96B8; padding: 2px 6px;">BeObnoxious</code></a>
 <br><br>
 <i>$$\color{#7B96B8}\textsf{"My world gains its colors only when this commie idiot is around."}$$</i>
 </td>
 <td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
-<img width="42" height="42" alt="Tom Logo" src="https://github.com/BeObnoxious" />
+mmm000
 </td>
 </tr>
 </table>
