@@ -3,8 +3,6 @@
 # ☭ $$\color{#FF6961}\textsf{Red Army Headquarters}$$
 *«Classic stupid Tom! It's good to be back.»*
 
-<img src="https://shields.io" alt="Status">
-
 </div>
 
 &nbsp;
@@ -88,8 +86,8 @@ CONNECTED TO: <a href="https://github.com"><code style="color: #7B96B8; backgrou
 <details>
 <summary><font color="#FF6961"><b> CLICK HERE TO VIEW ALL FANDOMS</b></font></summary>
 <br>
-
-*   **Main Operations:** Beastars, My Hero Academia, Jujutsu Kaisen, Eddsworld, Hazbin Hotel, Helluva Boss, Sally Face, Naruto, Wakfu / Dofus, FNAF, Steven Universe, Boyfriend to Death / The Price of Flesh / YKMET: Strade, Jurassic World / Jurassic Park, Cookie Run Kingdom, Brawl Stars, BATIM, Mr. Hopp's Playhouse, Creatures of Sonaria, Dandy's World.
+  
+* **Main Operations:** Beastars, My Hero Academia, Jujutsu Kaisen, Eddsworld, Hazbin Hotel, Helluva Boss, Sally Face, Naruto, Wakfu / Dofus, FNAF, Steven Universe, Boyfriend to Death / The Price of Flesh / YKMET: Strade, Jurassic World / Jurassic Park, Cookie Run Kingdom, Brawl Stars, BATIM, Mr. Hopp's Playhouse, Creatures of Sonaria, Dandy's World.
 *   **Secondary Files:** Metal Family, The Owl House, Star vs. the Forces of Evil, Regular Show, Adventure Time, OK K.O.!, Unikitty, My Student Spirit, Amphibia, TMNT, Tom and Jerry.
 *   **System Culture:** I am totally chill with fan headcanons. In fact, I often welcome and encourage them if the concept is genuinely creative.
 
