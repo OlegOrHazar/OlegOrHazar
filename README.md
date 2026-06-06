@@ -62,7 +62,7 @@ CONNECTED TO: <a href="https://github.com"><code style="color: #7B96B8; backgrou
 <i>$$\color{#7B96B8}\textsf{"My world gains its colors only when this commie idiot is around."}$$</i>
 </td>
 <td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
-<img width="42" height="42" alt="Tom Logo" src="https://github.com" />
+<img width="42" height="42" alt="Tom Logo" src="https://github.com/BeObnoxious" />
 </td>
 </tr>
 </table>
