@@ -62,7 +62,8 @@ CONNECTED TO: <a href="https://github.com/BeObnoxious"><code style="color: #7B96
 <i>$$\color{#7B96B8}\textsf{"My world gains its colors only when this commie idiot is around."}$$</i>
 </td>
 <td bgcolor="#1f232a" style="padding: 15px; vertical-align: middle; text-align: center;">
-mmm000
+<img width="98" height="78" alt="SKA" src="https://github.com/user-attachments/assets/d7dd0e94-0ad6-402b-8532-a6575f3b7213" />
+
 </td>
 </tr>
 </table>
