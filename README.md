@@ -8,7 +8,7 @@
 &nbsp;
 
 ### $$\color{#FF6961}\textsf{Main processor (About me)}$$
-Greetings! I go by **Oleg** or **Hazar**(Al-Khazir), preferred pronouns are **he/his**. 
+Greetings! I go by **Oleg** or **Hazar** (Al-Khazir), preferred pronouns are **he/his**. 
 
 I am a major extrovert — naturally packed with high social energy, always ready to drive a good conversation, and geared toward active engagement. I really don't like standing still or staying static! Despite the sharp aesthetic of this page, I am incredibly open-minded and always happy to hang out, break down any interesting subject, or just have a solid, friendly discussion. I just prefer to keep our surroundings active and alive.
 
