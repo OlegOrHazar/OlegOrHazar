@@ -33,7 +33,7 @@ I am a major extrovert — naturally packed with high social energy, always read
 <td bgcolor="#1f232a" valign="top" width="50%" style="border: 1px solid #30363D; padding: 15px; border-radius: 6px;">
 
 ### <font color="#FF6961">Data & Selections</font>
-*   **Languages:** Russian (Native), English (American format), Norwegian (Learning).
+*   **Languages:** Russian (Native), English (Basic American format), Norwegian (Learning).
 *   **Audio Data:** Complete music lover (meloman). I cycle through absolutely all genres depending on my current mood.
 *   **Comms:** Open-minded and hospitable. Feel free to reach out via socials if you want to connect, talk about our fandoms, or share your artwork.
 
