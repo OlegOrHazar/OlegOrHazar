@@ -57,7 +57,7 @@ If you try to push my boundaries, force your rules, or act persistently annoying
 <tr>
 <td bgcolor="#1f232a" style="border-left: 4px solid #FF6961; padding: 15px; width: 100%;">
   
-Connected to: <a href="https://github.com"><code style="color: #7B96B8; background-color: #1b2026; border: 1px solid #7B96B8; padding: 2px 6px;">BeObnoxious</code></a>
+Connected to: <a href="https://github.com/BeObnoxious"><code style="color: #7B96B8; background-color: #1b2026; border: 1px solid #7B96B8; padding: 2px 6px;">BeObnoxious</code></a>
 
 <i>$$\color{#7B96B8}\textsf{"My world gains its colors only when this commie idiot is around."}$$</i>
 </td>
