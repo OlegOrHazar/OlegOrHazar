@@ -3,6 +3,9 @@
 # ☭ $$\color{#FF6961}\textsf{Red Army Headquarters}$$
 *«Classic stupid Tom! It's good to be back.»*
 
+<img src="https://media1.tenor.com/m/_ECffT-uXM8AAAAd/classic-stupid.gif" width="683" height="383.0739130434782" alt="two cartoon characters are standing next to each other and one is smiling and the other is angry ." fetchpriority="high" style="max-width: 683px;">
+
+
 </div>
 
  
@@ -10,10 +13,19 @@
 ### $$\color{#FF6961}\textsf{Main processor (About me)}$$
 Greetings! I go by **Oleg** or **Hazar** (Al-Khazir), preferred pronouns are **he/his**. 
 
+<div align="center">
+ 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/3e1ffabb-8382-45ef-949f-57ac3affe863" />
+ 
+ And One - Military fashion show
+ 
+00:22 ━●────────── 3:55ㅤㅤ⇆ ㅤ♡︎ㅤ ◁ㅤㅤ❚❚ㅤㅤ▷ ㅤ↻ 
+</div>
+
 I am a major extrovert — naturally packed with high social energy, always ready to drive a good conversation, and geared toward active engagement. I really don't like standing still or staying static! Despite the sharp aesthetic of this page, I am incredibly open-minded and always happy to hang out, break down any interesting subject, or just have a solid, friendly discussion. I just prefer to keep our surroundings active and alive.
 
 *   **Current Hyperfixation:** Right now, my focus is completely captured 24/7 by the *Eddsworld* universe.
-*   **Activity Status:** Usually highly active and full of energy. I rarely choose to go AFK.
+*   **Activity Status:** Usually highly active and full of energy. I rarely choose to go AFK. (P.S.: i wanna warn you,that in Pony town my active status is Busy.Always.)
 *   **Gaming:** I absolutely love jumping on voice channels to play all kinds of fun co-op projects and multiplayer games with my friends.
 *   **Hanging out:** Most of my time online is spent side-by-side with one specific, <a href="#vital-element"><font color="#FF6961"><b>incredibly close person</b></font></a>.
 
@@ -71,7 +83,7 @@ Connected to: <a href="https://github.com/BeObnoxious"><code style="color: #7B96
 
 ### $$\color{#FF6961}\textsf{Database (Fandoms and Kins)}$$
 
-<code style="color: #FF6961;">Eddsworld</code> ➔ Kin/Obsession: Tord Larsson & Simping for Tom 
+<code style="color: #FF6961;">Eddsworld</code> ➔ Kin/Obsession: Tord Larsson & Simping for Tom(TOMTORD FOREVER GUYSS), ALSO I LOVE Paul Ter Voorde n Patryck Dudulwicz!!
 
 <code style="color: #FF6961;">Btd | Tpof | Ykmet</code> ➔ Kin: Ren Hana & Raer Lucien (Strade enthusiast) 
 
@@ -81,9 +93,13 @@ Connected to: <a href="https://github.com/BeObnoxious"><code style="color: #7B96
 
 <code style="color: #FF6961;">Hazbin Hotel</code> ➔ Fan of Alastor 
 
-<code style="color: #FF6961;">Jujutsu Kaisen</code> ➔ Favorites: Gojo, Suguru, Sukuna 
+<code style="color: #FF6961;">Jujutsu Kaisen</code> ➔ Favorites: Gojo Satoru, Suguru Geto, Ryoumen Sukuna , Yuta Okkotsu
 
-<code style="color: #FF6961;">My Hero Academia</code> ➔ Faves: Katsuki Bakugou, Tomura Shigaraki, Aizawa, Hawks, Dabi 
+<code style="color: #FF6961;">My Hero Academia</code> ➔ Faves: Katsuki Bakugou, Tomura Shigaraki, Shota Aizawa, Hawks(Keigo Takami), Dabi(Touya Todoroki)
+
+<code style="color: #FF6961;">Tokyo Ghoul</code> ➔ fav: Hideyoshi Nagachicka, Kaneki ken, Ginshi Shirazu for now (Hideki forever also!!!)
+
+<code style="color: #FF6961;">OK.K.O! Lets be heroes</code> ➔ Kins: Lord Boxman and Professor Venomous (P.S.: AHHH I LOVE THEM), Turbo K.O, Radicles
 
 *(Honestly, I have a massive structural weakness for absolutely unhinged, crazy fictional men).*
 
@@ -93,9 +109,9 @@ Connected to: <a href="https://github.com/BeObnoxious"><code style="color: #7B96
 <summary><font color="#FF6961"><b> CLICK HERE TO VIEW ALL FANDOMS</b></font></summary>
 
   
-* **Main Operations:** Beastars, My Hero Academia, Jujutsu Kaisen, Eddsworld, Hazbin Hotel, Helluva Boss, Sally Face, Naruto, Wakfu / Dofus, FNAF, Steven Universe, Boyfriend to Death / The Price of Flesh / YKMET: Strade, Jurassic World / Jurassic Park, Cookie Run Kingdom, Brawl Stars, BATIM, Mr. Hopp's Playhouse, Creatures of Sonaria, Dandy's World, The Fairly OddParents, Primal, Avatar: The Legend of Aang / Korra, Encanto, Teen Titans Go!, Chainsaw Man, Popee the Performer, Happy Tree Friends, Over the Garden Wall.
+* **Main Operations:** Beastars, My Hero Academia, Jujutsu Kaisen, Eddsworld, Hazbin Hotel, Helluva Boss, Sally Face, Naruto, Wakfu / Dofus, FNAF, Steven Universe, Boyfriend to Death / The Price of Flesh / YKMET: Strade, Jurassic World / Jurassic Park, Cookie Run Kingdom, Brawl Stars, BATIM, Mr. Hopp's Playhouse, Creatures of Sonaria, Dandy's World, The Fairly OddParents, Primal, Avatar: The Legend of Aang / Korra, Encanto, Teen Titans Go!, Chainsaw Man, Popee the Performer, Happy Tree Friends, Over the Garden Wall, Tokyo Ghoul, TADC and more others fandoms, but i need some time to remember all
 
-*   **Secondary Files:** Metal Family, The Owl House, Star vs. the Forces of Evil, Regular Show, Adventure Time, OK K.O.!, Unikitty, My Student Spirit, Amphibia, TMNT, Tom and Jerry, The Amazing World of Gumball (basic knowledge), Ninjago (very minor entry).
+*   **Secondary Files:** Metal Family, The Owl House, Star vs. the Forces of Evil, Regular Show, Adventure Time, OK K.O.! Lets be heroes, Unikitty, My Student Spirit, Amphibia, TMNT, Tom and Jerry, The Amazing World of Gumball (basic knowledge), Ninjago (very minor entry).
   
 *   **System Culture:** I am totally chill with fan headcanons. In fact, I often welcome and encourage them if the concept is genuinely creative.
 
