@@ -79,6 +79,19 @@ Connected to: <a href="https://github.com/BeObnoxious"><code style="color: #7B96
 </tr>
 </table>
 
+ <table>
+<tr>
+<td bgcolor="#1f232a" valign="top" width="50%" style="border: 1px solid #30363D; padding: 15px; border-radius: 6px;">
+<i>$$\color{#ff1111}\textsf{DNI Category and Trigger warning.}$$</i>
+
+ * Basic DNI criteria, proshippers, darkshippers, pedophiles, xenophobic people, Also obsesssive, possessive and control freaks.
+   
+ * WARNING: My humor is kinda rotten and extremely specific, so if you prefer more soft environment, then this space is not for you. 
+
+   
+</td>
+</tr>
+</table>
  
 
 ### $$\color{#FF6961}\textsf{Database (Fandoms and Kins)}$$
